@@ -2,7 +2,7 @@
     CONSOLE APPLICATION : 3DNestGen Project Overview
 ========================================================================
 
-AppWizard has created this 3DNestGen application for you.
+AppWizard has created this 3DNestGen application.
 
 This file contains a summary of what you will find in each of the files that
 make up your 3DNestGen application.
