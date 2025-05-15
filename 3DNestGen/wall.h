@@ -6,6 +6,7 @@
 
 class Wall {
 private:
+    // TODO: refactor design to have walls "dumb", i.e., not know which Cells are parents of particular Walls
     Parent _parent1;
     Parent _parent2;
 	int _birth;
